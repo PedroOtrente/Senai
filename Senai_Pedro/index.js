@@ -1,9 +1,11 @@
-const readSync = require('readline-sync');
+const readSync = require('readline-sync')
 
+let idade = readSync.question("Quantos anos você tem?\n")
 
-console.log("Exercício!\n")
-let multiMain = readSync.questionInt("Qual o multiplicador principal? ");
-
-for (multiSec = 0; multiSec <=10; multiSec++){
-    console.log(`${multiMain} X ${multiSec} é ${multiMain * multiSec}`);
+if (idade < 16){
+    console.log("Tu não pode fazer nada KKK")
+} else if(idade = 16 && idade <21){
+    console.log("Tu pode só dirigir")
+}else{
+    console.log("Tá liberado tudoo")
 }
