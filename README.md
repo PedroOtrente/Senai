@@ -1,3 +1,3 @@
 # Senai
 
-Coisas feias que fico fazendo devido à minha baixa habilidade
+Coisas feias que fico fazendo devido minha baixa habilidade
