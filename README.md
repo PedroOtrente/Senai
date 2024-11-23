@@ -1,3 +1,3 @@
 # Senai
 
-Coisas feias que fico fazendo devido minha baixa habilidade
+Coisas feias e tenebrosas aAaAaAaHHHHH
